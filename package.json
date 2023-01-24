@@ -1,0 +1,25 @@
+{
+  "name": "expensetrackerserver",
+  "version": "1.0.0",
+  "description": "Express Server For ExpenseTracker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhillesh618/ExpenseTrackerServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhillesh618/ExpenseTrackerServer/issues"
+  },
+  "homepage": "https://github.com/Akhillesh618/ExpenseTrackerServer#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
+  }
+}
